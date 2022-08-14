@@ -1,10 +1,12 @@
 html{
   scroll-behavior: smooth;
+  overflow: hidden;
 }
 body {
     opacity: 0.5;
     transition: ease-in 5s;
     font-family: "Roboto", sans-serif;
+    overflow: hidden;
   }
   #preload{
     position: absolute;
