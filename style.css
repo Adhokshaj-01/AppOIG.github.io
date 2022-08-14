@@ -1,12 +1,12 @@
 html{
   scroll-behavior: smooth;
-  overflow: hidden;
+  overflow-x :clip;
 }
 body {
     opacity: 0.5;
     transition: ease-in 5s;
     font-family: "Roboto", sans-serif;
-    overflow: hidden;
+    overflow-x: clip;
   }
   #preload{
     position: absolute;
