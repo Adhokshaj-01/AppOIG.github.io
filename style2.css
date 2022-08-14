@@ -1,7 +1,11 @@
+html{
+  overflow-x: clip;
+}
 body {
     color: #fff;
     background: #fff;
     font-family: "Roboto", sans-serif;
+    overflow-x :clip;
   }
   #preload{
     position: absolute;
